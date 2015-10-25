@@ -1,0 +1,6 @@
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\Упражнение 1\Упражнение 1\bin\Debug\Упражнение 1.exe.config
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\Упражнение 1\Упражнение 1\bin\Debug\Упражнение 1.exe
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\Упражнение 1\Упражнение 1\bin\Debug\Упражнение 1.pdb
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\Упражнение 1\Упражнение 1\obj\Debug\Упражнение 1.csprojResolveAssemblyReference.cache
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\Упражнение 1\Упражнение 1\obj\Debug\Упражнение 1.exe
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\Упражнение 1\Упражнение 1\obj\Debug\Упражнение 1.pdb
