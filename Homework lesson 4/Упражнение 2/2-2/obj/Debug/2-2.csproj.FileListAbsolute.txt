@@ -1,0 +1,10 @@
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\2-2\2-2\bin\Debug\2-2.exe.config
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\2-2\2-2\obj\Debug\2-2.csprojResolveAssemblyReference.cache
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\2-2\2-2\bin\Debug\2-2.exe
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\2-2\2-2\bin\Debug\2-2.pdb
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\2-2\2-2\obj\Debug\2-2.exe
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\2-2\2-2\obj\Debug\2-2.pdb
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\Упражнение 2\2-2\bin\Debug\2-2.exe.config
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\Упражнение 2\2-2\obj\Debug\2-2.exe
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\Упражнение 2\2-2\obj\Debug\2-2.pdb
+C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework lesson 4\Упражнение 2\2-2\obj\Debug\2-2.csprojResolveAssemblyReference.cache
