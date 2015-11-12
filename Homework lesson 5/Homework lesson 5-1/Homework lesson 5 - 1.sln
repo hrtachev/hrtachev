@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework lesson 5 - 1", "Homework lesson 5 - 1\Homework lesson 5 - 1.csproj", "{8EBDBA17-0300-4F7D-80F3-4200618BCE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBDBA17-0300-4F7D-80F3-4200618BCE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBDBA17-0300-4F7D-80F3-4200618BCE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBDBA17-0300-4F7D-80F3-4200618BCE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBDBA17-0300-4F7D-80F3-4200618BCE03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,6 +1,0 @@
-C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homewrok lesson 3\Упражнение 3\Упражнение 3\bin\Debug\Упражнение 3.exe.config
-C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homewrok lesson 3\Упражнение 3\Упражнение 3\bin\Debug\Упражнение 3.exe
-C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homewrok lesson 3\Упражнение 3\Упражнение 3\bin\Debug\Упражнение 3.pdb
-C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homewrok lesson 3\Упражнение 3\Упражнение 3\obj\Debug\Упражнение 3.csprojResolveAssemblyReference.cache
-C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homewrok lesson 3\Упражнение 3\Упражнение 3\obj\Debug\Упражнение 3.exe
-C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homewrok lesson 3\Упражнение 3\Упражнение 3\obj\Debug\Упражнение 3.pdb

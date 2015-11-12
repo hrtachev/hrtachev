@@ -1,6 +1,0 @@
-C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework 3-1\Работа в клас\Работа в клас\bin\Debug\Работа в клас.exe.config
-C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework 3-1\Работа в клас\Работа в клас\obj\Debug\Работа в клас.csprojResolveAssemblyReference.cache
-C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework 3-1\Работа в клас\Работа в клас\bin\Debug\Работа в клас.exe
-C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework 3-1\Работа в клас\Работа в клас\bin\Debug\Работа в клас.pdb
-C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework 3-1\Работа в клас\Работа в клас\obj\Debug\Работа в клас.exe
-C:\Users\Anna Hristova\Desktop\GIT Folder\hrtachev\Homework 3-1\Работа в клас\Работа в клас\obj\Debug\Работа в клас.pdb
